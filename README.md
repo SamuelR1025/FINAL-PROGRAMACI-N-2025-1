@@ -16,7 +16,7 @@ Se utiliza un dataset sintético basado en el **Diabetes Health Indicators Datas
 * 1 variable objetivo (`Diabetes_binary`)
 * Se introdujo un 5% de datos faltantes de forma aleatoria
 
-Estructura del repositorio
+**Estructura del repositorio**
 
 Siguiendo lo pedido por el profesor, este Github esta organizado de la siguiente manera: 
 
