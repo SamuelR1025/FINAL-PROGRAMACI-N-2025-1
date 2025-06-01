@@ -19,12 +19,19 @@ Se utiliza un dataset sintético basado en el **Diabetes Health Indicators Datas
 Estructura del repositorio
 
 ├── README.md
+
 ├── 01 - exploración.ipynb
+
 ├── 02 - preprocesado.ipynb
+
 ├── 03 - modelo 1.ipynb
+
 ├── 04 - modelo 2.ipynb
+
 ├── 05 - comparación.ipynb
+
 ├── 06 - dataset.csv
+
 └── 07 - informe.pdf
 
 Modelos utilizados
@@ -35,6 +42,7 @@ Modelos utilizados
 Ambos modelos fueron evaluados con métricas como precisión, recall, F1-score y matriz de confusión. También se aplicaron técnicas de búsqueda de hiperparámetros para mejorar su desempeño.
 
 Resultados esperados
+
 Comparar el desempeño de los modelos y determinar cuál ofrece una mejor predicción de diabetes, además de analizar el comportamiento frente a problemas de overfitting o bias.
 
 Autor
