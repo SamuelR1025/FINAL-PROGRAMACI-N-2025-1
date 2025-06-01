@@ -1,5 +1,5 @@
 # FINAL-PROGRAMACIÓN-2025-1
-Predicción de Diabetes Tipo 2
+**Predicción de Diabetes Tipo 2**
 
 Este proyecto corresponde al trabajo final de la materia **Programación 2025-1**. Se enfoca en aplicar técnicas de ciencia de datos y aprendizaje automático para predecir la presencia de diabetes tipo 2 en personas adultas, a partir de indicadores de salud. 
 
